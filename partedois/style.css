@@ -1,0 +1,28 @@
+
+*{margin:0;
+ padding: 0;
+}
+.div1{
+background-color: black;
+width:200px;
+height:200px;
+}
+.di2{
+background-color: black;
+width: 200px;
+ height: 200px;
+ display:flex;
+ flex-direction:column-reverse;
+}
+
+.div4{
+background-color: black;
+width: 200px;
+ height: 200px;
+}
+
+.div3{
+ background-color: black;
+ width: 200px;
+  height: 200px;
+}
