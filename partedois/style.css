@@ -6,23 +6,26 @@
 background-color: black;
 width:200px;
 height:200px;
+position:absolute;
+
 }
-.div2{
+.div2,.div4{
 background-color: black;
 width: 200px;
  height: 200px;
- display:flex;
- flex-direction:column-reverse;
+position:relative;
+left: 1150px;
+ 
 }
 
-.div4{
-background-color: black;
-width: 200px;
- height: 200px;
-}
+
 
 .div3{
  background-color: black;
  width: 200px;
   height: 200px;
+  position:absolute;
+  top: 460px;
+  right: 1155px;
+
 }
