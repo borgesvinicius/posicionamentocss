@@ -1,0 +1,31 @@
+*{
+ margin:0;
+ padding: 0;
+
+}
+.div1{
+ background-color: gray;
+ border: solid red;
+ width: 600px;
+ height: 100px;
+ overflow-y: scroll;
+ right: 300px;
+ position: absolute;
+ margin: 100px;
+ top:100px;
+ 
+}
+.div2{
+ background-color: gray;
+  border-radius: 20px;
+  width: 600px;
+  height: 100px;
+  text-align: center;
+  font-size:xx-small;
+  position:relative;
+top: 50px;
+ left: 355px;
+  
+ }
+
+
